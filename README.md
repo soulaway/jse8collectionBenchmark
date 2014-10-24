@@ -1,4 +1,5 @@
 jse8collectionBenchmark
+<img src="graph.png">
 =======================
 Contains Jmh based benchmark of all JSE1.8 Collections, tested for inserting and iterating
 
